@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a sample blog to demonstrate how to use Jekyll for blogging.
   You can customize it to suit your needs.
 author: Vetri Suriya
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-news-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vetrisuriya
 github_username:  vetrisuriya
