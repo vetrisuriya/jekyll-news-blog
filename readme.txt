@@ -5,3 +5,4 @@ Used Properties:
     - Front Matter
     - Permalinks
     - Variable [site]
+    - Theme [Default = minima]
